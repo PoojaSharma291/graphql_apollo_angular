@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+}
+.headUi{
+    display: flex;
+    justify-content: center;
+    color: cadetblue;
+}
+.listUi{
+    display: flex;
+    justify-content: center;
+    color: cornflowerblue;
+}
